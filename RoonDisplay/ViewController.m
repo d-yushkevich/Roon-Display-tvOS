@@ -105,7 +105,7 @@
         textField.text = currentURL; // Предзаполняем текущим URL
         textField.textColor = [UIColor blackColor];
         textField.backgroundColor = [UIColor whiteColor];
-        textField.layer.cornerRadius = 15.0;
+        textField.layer.cornerRadius = 20.0;
         textField.layer.masksToBounds = YES;
         [textField setReturnKeyType:UIReturnKeyDone];
         [textField addTarget:self
