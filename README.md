@@ -1,7 +1,7 @@
 # Roon Display
 
-![Alt text](/screen01.png?raw=true "Roon Display")
-![Alt text](/screen02.png?raw=true "Roon Display")
+![Alt text](/Distr/screen01.png?raw=true "Roon Display")
+![Alt text](/Distr/screen02.png?raw=true "Roon Display")
 
 A simple Roon Display App for Apple TV. This app is **not affiliated** with Roon Labs.  
 It is a web display, not a Roon Player endpoint. For more info, see: https://kb.roonlabs.com/Displays#Web_Display  
